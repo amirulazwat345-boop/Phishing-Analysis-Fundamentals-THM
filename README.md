@@ -7,5 +7,7 @@ Spam and phishing are both widespread social engineering attacks, but phishing t
 Security tools help reduce the number of malicious emails that reach users, but they are not perfect. This is why Security Analysts play a crucial role: they must investigate suspicious emails, determine whether they are malicious or benign, and gather intelligence to update defenses. By analyzing email headers and understanding how messages travel across the Internet, analysts can strengthen protections and prevent similar threats from reaching inboxes in the future. Practical exercises, such as dep.
 
 **Questions:**
+
 Read the task above
+
   | Answer: No answer needed
