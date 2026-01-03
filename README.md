@@ -31,3 +31,25 @@ Read the task above
 Email dates back to what time frame?
 
   | Answer: 1970s
+
+## Task 3: Email Delivery 
+
+**Summary**
+
+* SMTP: Handles sending emails from your client to mail servers.
+* POP3: Downloads emails from the server to a single device.
+* IMAP: Syncs emails across multiple devices by keeping them stored on the server.
+
+**POP3 vs IMAP Differences**
+
+* POP3
+  * Emails are downloaded and stored locally
+  * Sent messages stay only on the device you used.
+  * Access is limited to that one device.
+  * Unless "Keep email on server" is enabled, messages are deleted from the server after download
+* IMAP
+  * Emails remain on the server
+  * Sent messages are stored on the server too
+  * Messages can be accessed and synced across multiple devices
+
+**How Emails Travel**
