@@ -11,3 +11,23 @@ Security tools help reduce the number of malicious emails that reach users, but 
 Read the task above
 
   | Answer: No answer needed
+
+## Task 2: The Email Address
+
+**Summary**
+
+* Ray Tomlinson invented email in the 1970s on ARPANET and popularized the @ symbol
+* An email address has:
+  * User Mailbox (Username) - identifies the recipient
+  * @ - separates the mailbox from the domain
+  * Domain - guide where the message supposed to be sent to.
+* Example: billy@johndoe.com
+  * Mailbox: billy
+  * @: separator
+  * Domain: johndoe.com
+
+**Questions**
+
+Email dates back to what time frame?
+
+  | Answer: 1970s
